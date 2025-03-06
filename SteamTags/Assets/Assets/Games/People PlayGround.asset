@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06178bdfa91cd24f866c69ac5eb89bc, type: 3}
+  m_Name: People PlayGround
+  m_EditorClassIdentifier: 
+  gameName: People Playground
+  mainGenre: Indie
+  secondaryGenre: Sandbox
+  releaseDate: 2019
+  developer: mestiez
+  price: 9.99
+  estimatedSales: 6
+  positiveReviewsPercentage: 98.59
+  gameCover: {fileID: -240327516165942470, guid: 2d11f4a10a12aeb4c8c2575cb9eda2cf, type: 3}

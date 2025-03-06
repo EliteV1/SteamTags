@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06178bdfa91cd24f866c69ac5eb89bc, type: 3}
+  m_Name: Terraria
+  m_EditorClassIdentifier: 
+  gameName: Terraria
+  mainGenre: Adventure
+  secondaryGenre: Sandbox
+  releaseDate: 2011
+  developer: Re-Logic
+  price: 9.99
+  estimatedSales: 92
+  positiveReviewsPercentage: 97.5
+  gameCover: {fileID: 6402241711690651594, guid: d007590eac08dfe47b37d938b7683be2, type: 3}

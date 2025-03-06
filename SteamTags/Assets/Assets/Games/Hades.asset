@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f06178bdfa91cd24f866c69ac5eb89bc, type: 3}
+  m_Name: Hades
+  m_EditorClassIdentifier: 
+  gameName: Hades
+  mainGenre: Action
+  secondaryGenre: RogueLike
+  releaseDate: 2020
+  developer: Supergiant Games
+  price: 24.99
+  estimatedSales: 10
+  positiveReviewsPercentage: 98.27
+  gameCover: {fileID: 1607440234639269922, guid: 6aa34633c2432e54eb89981e77a133c8, type: 3}
